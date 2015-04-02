@@ -1,12 +1,6 @@
 
 #-*- coding:utf-8 -*-
 
-'''
-	@author:chunzhi
-	@date: 2014-10-08
-	@desc: crawl and parse the information from madrid
-		   bfs
-'''
 
 import re
 import copy
